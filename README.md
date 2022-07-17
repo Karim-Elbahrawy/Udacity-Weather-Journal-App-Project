@@ -52,7 +52,7 @@ http://localhost:5000/
 
 * Maryna Dymovich [project](https://github.com/MarynaDymovich/Weather-API)
 
-* [Youtube](https://www.youtube.com/watch?v=hdYXCiZkp0w&ab_channel=AhmedNageebMahmoud)
+* [Youtube](https://www.youtube.com/watch?v=-CZgW5ndSeQ&ab_channel=Mike%27sCodingTutorials)
 
 
 
