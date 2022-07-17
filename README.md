@@ -40,17 +40,13 @@ http://localhost:5000/
 
 * server is built locally with node and express.
 
-* all files are available in the /website folder with the exception of server.js (available in root directory) .
-
 * weather data is fetched from [OpenWeatherMap](https://openweathermap.org) API .
 
 * server includes an asynchronous get route to fetch data and an asynchronous post route to save data to the server from client side .
 
 * server logs data fetched to the console .
 
-* UI updates dynamically when the data is received from the server .
-
-* custom style added in style.css .
+* when the data is received from the server, UI updates dynamically.
 
 ## Helping Resources
 
