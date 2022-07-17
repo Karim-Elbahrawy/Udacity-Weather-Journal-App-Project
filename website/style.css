@@ -1,0 +1,140 @@
+    body{
+        
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        background-image: url('weather_1.webp');
+        background-size: cover;
+    }
+
+    #app{
+        display:grid;
+        height:100%;
+        width: 100%;
+        color: #ffffff;
+        justify-content: center;
+        grid-gap: 20px;
+        font-size: 40px;
+        font-family: 'Oswald', sans-serif;
+        
+    }
+
+    
+    .entry{
+       
+        width: 300px;
+        height: 180px;
+    }
+
+    #entryHolder{
+        font-size: 25px;
+        color: #96004b;
+    }
+
+
+    .headline {
+        height: 100px;
+        color: #ffffff;
+        left: 50pt;
+        font-size: 40pt;
+        
+    }
+    .title{
+        font-size: 27px;
+        font-style: bold;
+        text-shadow: 3px 3px 3px #aaa;
+    }
+
+   
+    label{
+        display:block;
+        font-size: 27px;
+        height: 50px;
+    }
+  
+    input{
+        background: none;
+        border: none;
+        border-bottom: solid 2px #ffffff;
+        color: #ffffff;
+        font-size: 0.4em;
+        font-weight: 400;
+        letter-spacing: 1px;
+        margin: 0em 0 1.875em 0;
+        padding: 0 0 0.875em 0;
+        text-transform: uppercase;
+        width: 220px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        -o-box-sizing: border-box;
+        box-sizing: border-box;
+       
+    }
+    /* button style */
+    button{
+        width: 200px;
+        font-size: 16px;
+        font-weight: 600;
+        color: #fff;
+        cursor: pointer;
+        margin: 20px;
+        height: 55px;
+        text-align:center;
+        border: SOLID white;
+        background-size: 300% 100%;
+        margin-left: 3  00px;
+        border-radius: 50px;
+        -o-transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+        background-image: linear-gradient(to right,#ffff86,#25aae1,#25aae1, #ffff86);
+        
+    }
+    
+    button:hover{
+        background-position: 100% 0;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+    }
+
+
+    h1{
+        font-size: 36px;
+    }
+
+    
+    textarea{
+        background: none;
+        border: none;
+        border-bottom: solid 2px #fffdfc;
+        color: #ffffff;
+        font-size: 0.4em;
+        font-weight: 500;
+        letter-spacing: 1px;
+        margin: 0em 0 1.875em 0;
+        padding: 0 0 0.875em 0;
+        text-transform: uppercase;
+        width: 220px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        -o-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    }
+   
+    input:focus,
+    select:focus,
+    textarea:focus,
+    button:focus {
+        outline: none;
+    }
+    
+    
+   
+    
