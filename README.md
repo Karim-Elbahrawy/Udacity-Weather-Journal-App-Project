@@ -4,12 +4,7 @@ Weather app for Udacity that uses asynchronous functions, openWeatherMap API and
 
 ## Table of Contents
 
-
-First you need to have node.js, express, cors, body-parser installed .
-
-* To install node you can download form the wesite [nodeJs](https://nodejs.org/en/) or install from your package manger [nodeJs Package Manger](https://nodejs.org/en/download/package-manager/) npm included
-
-* Then you have to download dependencies with npm from the command line (installs system wide) :
+To run this code you first need to get nodejs installed on your computer the install the following pakages:
 
 ```bash
 npm install express
@@ -61,7 +56,7 @@ http://localhost:5000/
 
 * Maryna Dymovich [project](https://github.com/MarynaDymovich/Weather-API)
 
-* [project](https://www.youtube.com/watch?v=hdYXCiZkp0w&ab_channel=AhmedNageebMahmoud)
+* [Youtube](https://www.youtube.com/watch?v=hdYXCiZkp0w&ab_channel=AhmedNageebMahmoud)
 
 
 
