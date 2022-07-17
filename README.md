@@ -39,11 +39,7 @@ then in your browser navigate to
 http://localhost:5000/
 ```
 
-![weather_app_1](/weather_app_1.png)
 
-from there you can enter your city zip code and how you are feeling today and click generate and you would get a reponse like this :
-
-![weather_app_1](/weather_app_2.png)
 
 ## Development
 
@@ -65,10 +61,7 @@ from there you can enter your city zip code and how you are feeling today and cl
 
 * Maryna Dymovich [project](https://github.com/MarynaDymovich/Weather-API)
 
-* [FWD online community](https://nfpdiscussions.udacity.com)
-
-* [Neon Text Design](https://css-tricks.com/how-to-create-neon-text-with-css/)
-
+* [project](https://www.youtube.com/watch?v=hdYXCiZkp0w&ab_channel=AhmedNageebMahmoud)
 
 
 
